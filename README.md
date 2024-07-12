@@ -1,4 +1,4 @@
-# Database-system-final-project
+## 資料庫系統期末專題
 ### 甜點店訂餐網站
 * 使用語言:PHP+MySQL
 * 開發環境:Virtual Studio Code
